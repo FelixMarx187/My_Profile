@@ -35,9 +35,9 @@ const badri = {
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   
-#### Popular Projects
+#### Public Projects
 <a href="https://github.com/FelixMarx187/CannaMap">
-  CannaMap
+  CannaMap🌿
 </a>    
 
 #### I Spent My Time On
