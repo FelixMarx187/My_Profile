@@ -1,29 +1,24 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/FelixMarx187">Felix Marx</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a hobby devoloper, I'm a Competitive Programmer, I also like to create projects in Java.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>👋 Hi, I’m @FelixMarx187</li>
+  <li>❤️ I love Creating websites and Programming in Java.</li>
+  <li>🌱 I’m currently learning Web Development, Android Development, C++ and JS.</li>
+  <li>💼 I'm a Student developer at Gymnasium Hückelhoven.</li>
 </ul>
 
 #### A little more about me
 ```javascript
 const badri = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
+  code: ["Java", "Javascript", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "java"],
 }
 ```
 
@@ -87,12 +82,10 @@ Python                   59 mins             ██░░░░░░░░░�
 GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 
 🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
+VS Code              
+IntelliJ IDEA   
 
 💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+Windows 11 Pro
 ```
 ------
-Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
-Last Edited on: 25/09/2021.
