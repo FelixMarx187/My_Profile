@@ -36,9 +36,7 @@ const felix = {
   </a>   
   
 #### Public Projects
-<a href="https://github.com/FelixMarx187/CannaMap">
-  CannaMap🌿
-</a>    
+/-/
 
 #### I Spent My Time On
 ```text
