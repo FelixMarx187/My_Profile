@@ -53,5 +53,6 @@ IntelliJ IDEA
 
 💻 Operating System:
 Windows 11 Pro
+MacOS
 ```
 ------
