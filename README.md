@@ -4,7 +4,6 @@
 <p align="center">
 </p>
 <p>I am a hobby devoloper, I'm a Competitive Programmer, I also like to create projects in Java.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @FelixMarx187</li>
   <li>❤️ I love Creating websites and Programming in Java.</li>
